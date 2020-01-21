@@ -1,1 +1,1 @@
-worker: python run.py
+worker: python run_linux_mac.sh
